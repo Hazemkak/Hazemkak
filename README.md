@@ -3,7 +3,7 @@
 I'm Hazem Kasim a Computer Engineering Student At Cairo Universty - Faculty Of Engineering.
 
 :mailbox: Reach me out!
-[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazem-kasim-95063118b/) [![Mail Badge](https://img.shields.io/badge/-@hazemkak-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/hazemkak) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hazemkasim3@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Hazem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazem-kasim-95063118b/) [![Mail Badge](https://img.shields.io/badge/-@hazemkak-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/hazemkak) [![Mail Badge](https://img.shields.io/badge/-hazemkasim3-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hazemkasim3@gmail.com)
 
 <!-- TODO: Add last video link -->
 
