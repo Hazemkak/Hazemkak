@@ -8,7 +8,7 @@ I'm Hazem Kasim a Computer Engineering Student At Cairo Universty - Faculty Of E
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently student at faculty of engineering-Cairo University
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- :computer: Most used line of code `npm start`
 - 📫 How to reach me: hazemkasim3@gmail.com.
 
 #### Top Technologies
