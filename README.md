@@ -1,13 +1,11 @@
 ## Hi I'm Hazem <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Hazem Kasim a Computer Engineering Student At Cairo Universty - Faculty Of Engineering.
+## I'm Hazem Kasim a Computer Engineering Student At Cairo Universty - Faculty Of Engineering.
 
 :mailbox: Reach me out!
 [![Linkedin Badge](https://img.shields.io/badge/-Hazem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazem-kasim-95063118b/) [![Mail Badge](https://img.shields.io/badge/-@hazemkak-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/hazemkak) [![Mail Badge](https://img.shields.io/badge/-hazemkasim3-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hazemkasim3@gmail.com)
 
 <!-- TODO: Add last video link -->
-
-- 🔭 I’m currently student at faculty of engineering-Cairo University
 - :computer: Most used line of code `npm start`
 - 📫 How to reach me: hazemkasim3@gmail.com.
 - 📂 [My Resume/CV](https://www.linkedin.com/in/hazem-kasim-95063118b/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACzD9wwBxJPayLDtPJRZnaqMBOSWGCsOyZY,1605287333377))
