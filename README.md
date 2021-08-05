@@ -10,7 +10,7 @@ I'm Hazem Kasim a Computer Engineering Student At Cairo Universty - Faculty Of E
 - 🔭 I’m currently student at faculty of engineering-Cairo University
 - :computer: Most used line of code `npm start`
 - 📫 How to reach me: hazemkasim3@gmail.com.
-- paperclip: [My Resume/CV](https://www.linkedin.com/in/hazem-kasim-95063118b/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACzD9wwBxJPayLDtPJRZnaqMBOSWGCsOyZY,1605287333377))
+- 📂 [My Resume/CV](https://www.linkedin.com/in/hazem-kasim-95063118b/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACzD9wwBxJPayLDtPJRZnaqMBOSWGCsOyZY,1605287333377))
 
 #### Top Technologies
 
